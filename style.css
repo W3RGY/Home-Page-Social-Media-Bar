@@ -46,7 +46,7 @@ body {
 .title__highlight {
 	position: absolute;
 	width: 100%;
-	bottom: -50;
+	bottom: -50px;
 	left: 0;
 	height: 50px;
 	background-color: #43ffbe;
